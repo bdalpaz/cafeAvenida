@@ -25,6 +25,4 @@ O objetivo desta página é servir como um cartão de visitas digital, apresenta
 * **Font Awesome:** Para os ícones das redes sociais no rodapé.
 * **Google Fonts:** Para as fontes personalizadas (`Merriweather` para títulos e `Lato` para textos).
 
-## 📁 Estrutura do Projeto
 
-O projeto está organizado da seguinte forma:
