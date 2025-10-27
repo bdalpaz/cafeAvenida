@@ -1,6 +1,6 @@
 # Landing Page - Avenida Café
 
-Este é o repositório do projeto da landing page para o Avenida Café, uma padaria e cafeteria. O site foi desenvolvido "do zero" com foco em um design limpo, moderno, responsivo e que segue a identidade visual da marca (cores bege, marrom e vermelho).
+Este é o repositório do projeto da landing page para o Avenida Café, uma padaria e cafeteria. O site foi desenvolvido com foco em um design limpo, moderno, responsivo e que segue a identidade visual da marca.
 
 ## 🚀 Visão Geral
 
